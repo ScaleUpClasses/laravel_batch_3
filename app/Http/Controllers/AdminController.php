@@ -68,7 +68,7 @@ class AdminController extends Controller
      */
     public function edit($id)
     {
-        //
+        dd(123);
     }
 
     /**
@@ -80,7 +80,7 @@ class AdminController extends Controller
      */
     public function update(Request $request, $id)
     {
-        //
+        dd(111);
     }
 
     /**
