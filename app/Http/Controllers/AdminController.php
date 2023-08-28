@@ -91,6 +91,6 @@ class AdminController extends Controller
      */
     public function destroy($id)
     {
-        //
+        dd(123);
     }
 }
